@@ -26,7 +26,7 @@
 - 👯 Looking to collaborate on **Cloud & DevOps Projects**
 - 💼 Open to work & internships in **AWS / DevOps**
 - 💬 Ask me about **Terraform, Jenkins, AWS, Linux, Docker**
-- 📫 Email me: **viprajan739616@gmail.com**
+- 📫 Email me: **avinashraju66@gmail.com**
 - ⚡ Fun fact: *I love automating everything!*
 
 ---
