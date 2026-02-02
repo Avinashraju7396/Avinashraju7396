@@ -1,5 +1,3 @@
-<div align="center" style="border: 6px double #00e6ff; border-image: linear-gradient(90deg, #ff512f, #dd2476, #00c6ff, #0072ff) 1; border-radius: 15px; padding: 25px; background: #0a0a0a10;">
-
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">Aspiring AWS & DevOps Engineer from India 🚀</h3>
 
